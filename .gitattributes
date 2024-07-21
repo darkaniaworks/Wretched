@@ -1,0 +1,8 @@
+Content/Megascans/* filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/**/* filter=lfs diff=lfs merge=lfs -text
+Content/SecretProject/* filter=lfs diff=lfs merge=lfs -text
+Content/SecretProject/**/* filter=lfs diff=lfs merge=lfs -text
+Content/StarterContent/* filter=lfs diff=lfs merge=lfs -text
+Content/StarterContent/**/* filter=lfs diff=lfs merge=lfs -text
+Content/CC_Shaders/* filter=lfs diff=lfs merge=lfs -text
+Content/CC_Shaders/**/* filter=lfs diff=lfs merge=lfs -text
